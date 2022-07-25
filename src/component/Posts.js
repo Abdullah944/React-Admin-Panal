@@ -16,7 +16,7 @@ const postFilters = [
   </ReferenceInput>,
 ];
 
-export const PostList = () => <List filters={postFilters}>// ...</List>;
+export const PostList = () => <List filters={postFilters}>abd</List>;
 export const PostCreate = (props) => (
   <Create {...props}>
     <SimpleForm>
